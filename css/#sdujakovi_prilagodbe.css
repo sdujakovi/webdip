@@ -1,0 +1,11 @@
+@media screen and (max-width: 1060px) {
+      .meni{
+        float: none;
+        font-size: 20px;
+        width: 100%;
+        text-align: center;
+      }
+      .meni ul{
+        display: none;
+      }
+}
